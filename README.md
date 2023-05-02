@@ -46,7 +46,7 @@ Hello! My name is Sergey and I am a beginner Java Developer. <br><br> I am passi
 - Spring Boot
 - Spring MVC
 - Spring Data JPA. Also worked with pure JDBC, Spring JDBC Template, Hibernate-JPA
-3) Базы данных:
+3) Databases:
 - SQL (PostgreSQL, H2)
 - NoSQL (MongoDB)
 - Liquibase
